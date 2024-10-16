@@ -13,8 +13,8 @@
       	"sum": "$10,000",
 	"street": "122. Bingbong Road",
 	"suburb": "Kellyville",
-	"state": "NSW",
-	"postcode": "2155",
+	"state": "VIC",
+	"postcode": "3155",
       	"accountid": "AB2",
 	"name": "Raj"
     },
@@ -22,8 +22,8 @@
       	"sum": "$15,000",
 	"street": "3. Smashing Street",
 	"suburb": "Potts Point",
-	"state": "NSW",
-	"postcode": "2011",
+	"state": "QLD",
+	"postcode": "4011",
      	"accountid": "AB3",
 	"name": "Jeremy"
     },
